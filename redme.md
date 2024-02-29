@@ -20,6 +20,18 @@
 
 # "types": "dist/index.d.ts",
 
+#maintain version
 
-#maintain version 
 # "version":"2.0.0"
+
+#to test locally use command
+
+# npm link
+
+#this will link this library to other projects and we can use locallay without install
+
+# to publish use command
+
+# npm publish
+
+#Before publishing login into npm and then do it
